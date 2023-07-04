@@ -1,12 +1,12 @@
 <div align="center">
 
-# CXR-LT Challenge
+# Project Name
 
 </div>
 
 ## Description
 
-Getting familiar with MIMIC and participating in the ICCV Challenge "CXR-LT: Multi-Label Long-Tailed Classification on Chest X-Rays"
+
 
 ## Installation
 
